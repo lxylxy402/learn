@@ -14,6 +14,6 @@ git add -A
 git commit -m 'deploy'
 
 # 如果发布到 https://<lxylxy402>.github.io/<REPO>
-git push -f git@github.com:mqyqingfeng/learn.git master:gh-pages
+git push -f 1229212274@qq.com:lxylxy402/learn.git master:gh-pages
 
 cd -
